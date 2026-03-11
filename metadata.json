@@ -1,0 +1,5 @@
+{
+  "name": "PyLogic Assistant",
+  "description": "A Python reference and natural language to code logic converter for learners and developers.",
+  "requestFramePermissions": []
+}
